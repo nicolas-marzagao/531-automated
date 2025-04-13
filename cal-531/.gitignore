@@ -1,0 +1,18 @@
+# Ignore Cargo's output directory
+/target/
+
+# Ignore build artifacts
+**/*.rs.bk
+
+# Ignore generated files
+/output.csv
+
+# Ignore editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
